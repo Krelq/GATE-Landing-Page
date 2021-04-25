@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.842" height="49.842" viewBox="0 0 49.842 49.842">
+  <g id="wireless-connection" transform="translate(0)">
+    <g id="Group_57" data-name="Group 57" transform="translate(6.112 0)">
+      <path id="Path_129" data-name="Path 129" d="M62.79,386.783H66.1v2.92H62.79Z" transform="translate(-62.79 -349.13)" fill="#e5b00c"/>
+      <path id="Path_130" data-name="Path 130" d="M131.547,386.783h3.309v2.92h-3.309Z" transform="translate(-124.854 -349.13)" fill="#e5b00c"/>
+      <path id="Path_131" data-name="Path 131" d="M332.567,386.783h10.75v2.92h-10.75Z" transform="translate(-306.305 -349.13)" fill="#e5b00c"/>
+      <path id="Path_132" data-name="Path 132" d="M208.809,59.484l2.183,1.94a3.217,3.217,0,0,1,4.822,0L218,59.484a6.138,6.138,0,0,0-9.188,0Z" transform="translate(-194.594 -51.827)" fill="#e5b00c"/>
+      <path id="Path_133" data-name="Path 133" d="M174.788,2.92a8.808,8.808,0,0,1,6.575,2.961l2.183-1.94a11.7,11.7,0,0,0-17.517,0l2.183,1.94a8.808,8.808,0,0,1,6.575-2.961Z" transform="translate(-155.98 0)" fill="#e5b00c"/>
+    </g>
+    <path id="Path_134" data-name="Path 134" d="M49.842,146.161h-19.9v-5.908H26.381V127.417h-2.92v12.836H19.9v5.908H0v15.994H3.017v2.7h2.92v-2.7H43.905v2.7h2.92v-2.7h3.017Zm-27.027-2.988h4.211v2.988H22.816Zm24.106,16.061h-44V149.081h44Z" transform="translate(0 -115.013)" fill="#e5b00c"/>
+  </g>
+</svg>
